@@ -1,7 +1,5 @@
 <div align="center"><img src="https://cwi.com.br/blog/wp-content/uploads/2021/01/nata_1.png" width="310" height="110" /></div>
 
-# <div align="center">Vercel Homepage</div>
-
 <img src="./.github/vercel-homepage.png" />
 
 <p align="center">A clone of the animated homepage from Vercel</p>
